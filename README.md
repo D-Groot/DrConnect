@@ -1,11 +1,16 @@
-<div align="center">
+# DrConnect
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A healthcare connectivity platform designed to streamline doctor-patient communication, appointment scheduling, and medical record management.
 
-  <h1>Built with AI Studio</h2>
+## Overview
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+DrConnect bridges the gap between patients and healthcare providers by offering a centralized interface for booking consultations, managing schedules, and accessing essential medical information securely.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Core Features
 
-</div>
+* **Appointment Scheduling:** Real-time slot booking, rescheduling, and automated status updates for patients and doctors.
+* **User Management:** Role-based access control separating patient portals from practitioner dashboards.
+* **Consultation Records:** Centralized tracking of visit history, prescriptions, and clinical notes.
+* **Search and Discovery:** Filter healthcare professionals by specialization, availability, and location.
+
+
